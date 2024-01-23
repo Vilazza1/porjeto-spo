@@ -1,3 +1,3 @@
-# porjeto-spo
+# projeto-spo
 Projeto realizado na imersão alulra
-Vinicius Vilaça
+Vinicius Vilaça.
